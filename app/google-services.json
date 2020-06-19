@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644263622262",
+    "firebase_url": "https://letschat-by-phoenix.firebaseio.com",
+    "project_id": "letschat-by-phoenix",
+    "storage_bucket": "letschat-by-phoenix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644263622262:android:5f9f71f709a0c678e39157",
+        "android_client_info": {
+          "package_name": "com.phoenix.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644263622262-4gq3gb1qkfpq4g2d0p7hdpggpc867o7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phoenix.letschat",
+            "certificate_hash": "b499026bc63d57f95eb78920589ccd89485966cf"
+          }
+        },
+        {
+          "client_id": "644263622262-79jng1c5dh7e0vq8tqb7bfur3o5vipgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt4JoJy0Uh0mQG727jNbhNTz3ChLipb70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644263622262-79jng1c5dh7e0vq8tqb7bfur3o5vipgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

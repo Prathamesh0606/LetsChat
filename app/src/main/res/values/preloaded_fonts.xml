@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bangers</item>
+        <item>@font/cambo</item>
+        <item>@font/lemon</item>
+        <item>@font/michroma</item>
+        <item>@font/oxygen</item>
+        <item>@font/pacifico</item>
+        <item>@font/telex</item>
+    </array>
+</resources>
